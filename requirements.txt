@@ -1,0 +1,4 @@
+requests == 2.28.1
+# Unit tests 
+pytest == 6.2.
+pytest-cov == 3.0.0
